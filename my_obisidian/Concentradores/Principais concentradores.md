@@ -7,6 +7,7 @@
 [[Nokia]]
 [[Mikrotik]]
 
+
 | CONCENTRADOR |   PROTOCOL   | DEFAULT PORT |
 |:------------:|:------------:|:------------:|
 |   Juniper    |    TELNET    |      23      |
