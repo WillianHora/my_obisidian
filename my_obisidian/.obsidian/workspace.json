@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concentradores/Equipamentos/Cisco/Primeiros passos.md",
+                "file": "Servidores/Linux.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concentradores/Equipamentos/Cisco/Primeiros passos.md",
+                "file": "Servidores/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concentradores/Equipamentos/Cisco/Primeiros passos.md",
+                "file": "Servidores/Linux.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concentradores/Equipamentos/Cisco/Primeiros passos.md"
+                "file": "Servidores/Linux.md"
               }
             }
           },
@@ -157,15 +157,15 @@
   },
   "active": "6d4c040fbfb3139a",
   "lastOpenFiles": [
+    "OLTs/Equipamentos/DATACOM.md",
+    "Concentradores/Equipamentos/Cisco/Primeiros passos.md",
     "OLTs/Principais equipamentos.md",
     "Concentradores/Equipamentos/Cisco.md",
-    "Concentradores/Equipamentos/Cisco/Primeiros passos.md",
     "Concentradores/Equipamentos/Cisco",
     "Redes IXC/FreeRadius.md",
     "Redes IXC/Como o radius funciona.pdf",
     "Servidores/Linux.md",
     "Redes IXC/RX e TX Simplificado - Desconexão cliente.md",
-    "OLTs/Equipamentos/DATACOM.md",
     "Concentradores/Principais concentradores.md",
     "Concentradores/Equipamentos/Nokia.md",
     "Concentradores/Equipamentos/Mikrotik.md",
