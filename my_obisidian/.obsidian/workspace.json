@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protocolos/SSH.md",
+                "file": "Servidores/Repositórios/Comandos GIT.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protocolos/SSH.md",
+                "file": "Servidores/Repositórios/Comandos GIT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Protocolos/SSH.md",
+                "file": "Servidores/Repositórios/Comandos GIT.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Protocolos/SSH.md"
+                "file": "Servidores/Repositórios/Comandos GIT.md"
               }
             }
           },
@@ -157,14 +157,14 @@
   },
   "active": "50874e041eef9abb",
   "lastOpenFiles": [
+    "Concentradores/Equipamentos/Cisco/Primeiros passos.md",
+    "Protocolos/SSH.md",
     "Servidores/Repositórios/Comandos GIT.md",
     "Servidores/Repositórios/config.png",
-    "Concentradores/Equipamentos/Cisco/Primeiros passos.md",
     "OLTs/Equipamentos/DATACOM.md",
     "Redes IXC/Como o radius funciona.pdf",
     "Protocolos/API.md",
     "Concentradores/Principais concentradores.md",
-    "Protocolos/SSH.md",
     "Concentradores/Equipamentos/Cisco XR.md",
     "Protocolos/TELNET.md",
     "Concentradores/Equipamentos/Juniper.md",
