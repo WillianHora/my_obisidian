@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b666e117bcbe32fc",
+        "id": "f2b9ca67fa1e7d81",
         "type": "tabs",
         "children": [
           {
-            "id": "6d4c040fbfb3139a",
+            "id": "50874e041eef9abb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servidores/Repositórios/Comandos GIT.md",
+                "file": "Protocolos/SSH.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Servidores/Repositórios/Comandos GIT.md",
+                "file": "Protocolos/SSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servidores/Repositórios/Comandos GIT.md",
+                "file": "Protocolos/SSH.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servidores/Repositórios/Comandos GIT.md"
+                "file": "Protocolos/SSH.md"
               }
             }
           },
@@ -155,20 +155,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6d4c040fbfb3139a",
+  "active": "50874e041eef9abb",
   "lastOpenFiles": [
+    "Servidores/Repositórios/Comandos GIT.md",
+    "Servidores/Repositórios/config.png",
+    "Concentradores/Equipamentos/Cisco/Primeiros passos.md",
+    "OLTs/Equipamentos/DATACOM.md",
     "Redes IXC/Como o radius funciona.pdf",
     "Protocolos/API.md",
     "Concentradores/Principais concentradores.md",
     "Protocolos/SSH.md",
     "Concentradores/Equipamentos/Cisco XR.md",
-    "Concentradores/Equipamentos/Cisco/Primeiros passos.md",
-    "OLTs/Equipamentos/DATACOM.md",
     "Protocolos/TELNET.md",
     "Concentradores/Equipamentos/Juniper.md",
     "Concentradores/Equipamentos/Nokia.md",
-    "Servidores/Repositórios/config.png",
-    "Servidores/Repositórios/Comandos GIT.md",
     "Servidores/Repositórios/config.jpg",
     "Servidores/Repositórios/configurando_chave_githu.png",
     "Servidores/Repositórios/confi.png",
