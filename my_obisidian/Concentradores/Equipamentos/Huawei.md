@@ -1,5 +1,5 @@
 ACESSO:
-o acesso aos equipamentos da <mark class="hltr-r">Huawei</mark> é realizado utilizando [[SSH]].
+
 
 **Comandos de Rotina:**
 <mark class="hltr-r">Informações importantes sobre a conexão do cliente:</mark>

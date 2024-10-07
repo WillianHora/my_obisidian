@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f2b9ca67fa1e7d81",
+        "id": "105cf60f86ce24d0",
         "type": "tabs",
         "children": [
           {
-            "id": "50874e041eef9abb",
+            "id": "01e6ab00706830a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servidores/Repositórios/Comandos GIT.md",
+                "file": "Servidores/Banco de dados/Comandos rotina.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "banco de dado",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Servidores/Repositórios/Comandos GIT.md",
+                "file": "Servidores/Banco de dados/Comandos rotina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servidores/Repositórios/Comandos GIT.md",
+                "file": "Servidores/Banco de dados/Comandos rotina.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servidores/Repositórios/Comandos GIT.md"
+                "file": "Servidores/Banco de dados/Comandos rotina.md"
               }
             }
           },
@@ -155,38 +155,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50874e041eef9abb",
+  "active": "01e6ab00706830a8",
   "lastOpenFiles": [
+    "Servidores/Linux.md",
+    "Servidores/Banco de dados/Comandos rotina.md",
+    "Servidores/Repositórios/Comandos GIT.md",
+    "Sem título",
+    "Redes IXC/Como o radius funciona.pdf",
+    "Redes IXC/FreeRadius.md",
+    "Concentradores/Principais concentradores.md",
+    "Concentradores/Equipamentos/Nokia.md",
+    "Concentradores/Equipamentos/Mikrotik.md",
+    "Concentradores/Equipamentos/Juniper.md",
+    "Concentradores/Equipamentos/Huawei.md",
+    "Concentradores/Equipamentos/Edge-router.md",
+    "Concentradores/Equipamentos/Cisco XR.md",
+    "Concentradores/Equipamentos/Accel-PPP.md",
     "Concentradores/Equipamentos/Cisco/Primeiros passos.md",
     "Protocolos/SSH.md",
-    "Servidores/Repositórios/Comandos GIT.md",
     "Servidores/Repositórios/config.png",
     "OLTs/Equipamentos/DATACOM.md",
-    "Redes IXC/Como o radius funciona.pdf",
     "Protocolos/API.md",
-    "Concentradores/Principais concentradores.md",
-    "Concentradores/Equipamentos/Cisco XR.md",
     "Protocolos/TELNET.md",
-    "Concentradores/Equipamentos/Juniper.md",
-    "Concentradores/Equipamentos/Nokia.md",
     "Servidores/Repositórios/config.jpg",
     "Servidores/Repositórios/configurando_chave_githu.png",
     "Servidores/Repositórios/confi.png",
-    "Servidores/Linux.md",
     "Servidores/Repositórios",
     "OLTs/Principais equipamentos.md",
     "Concentradores/Equipamentos/Cisco.md",
     "Concentradores/Equipamentos/Cisco",
-    "Redes IXC/FreeRadius.md",
     "Redes IXC/RX e TX Simplificado - Desconexão cliente.md",
-    "Concentradores/Equipamentos/Mikrotik.md",
-    "Concentradores/Equipamentos/Huawei.md",
-    "Banco de dados/Comandos rotina.md",
-    "Banco de dados",
+    "Servidores/Banco de dados",
     "OLTs/Equipamentos",
     "OLTs",
-    "Concentradores/Equipamentos/Accel-PPP.md",
-    "Concentradores/Equipamentos/Edge-router.md",
     "Servidores",
     "README.md",
     "Protocolos",
@@ -194,7 +195,6 @@
     "Redes IXC/Integração de concentrador.md",
     "Concentradores/Equipamentos",
     "Untitled.canvas",
-    "Concentradores",
     "Welcome.md"
   ]
 }

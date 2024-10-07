@@ -11,4 +11,3 @@
 <span style="font-size: 18px;">Reiniciar o radius é literalmente desligar o serviço de autenticação e liga-lo novamente por algum motivo de erro ou até do radius está com status de desligado</span>
 
 Como o radius funciona de forma simples: [[Como o radius funciona.pdf]],
-esse artigo também pode ajudar: [[RX e TX Simplificado - Desconexão cliente]]

@@ -1,6 +1,5 @@
-
-<mark class="hltr-r">Acesso:</mark>
-<span style="font-size: 14px; font-family:monospace;">mysql -u {username} -p {password} -A</span>
+***Acesso ao banco:***
+`mysql -u {username} -p {password} -A`
 
 -u: especificar o nome de usuário
 -p: solicitar senha para o determinado usuário
@@ -9,4 +8,5 @@
 
 DICA: uma forma mais segura para acessar, por padrão, é não definir a senha diretamente na linha de código, esperar o terminal solicitar.
 
------------------------------
+-------------------------------------
+***Manipulação dos dados:***
