@@ -11,9 +11,11 @@
             "id": "6d4c040fbfb3139a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Redes IXC/Como o radius funciona.pdf"
+                "file": "Servidores/Repositórios/Comandos GIT.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes IXC/Como o radius funciona.pdf",
+                "file": "Servidores/Repositórios/Comandos GIT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redes IXC/Como o radius funciona.pdf",
+                "file": "Servidores/Repositórios/Comandos GIT.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redes IXC/Como o radius funciona.pdf"
+                "file": "Servidores/Repositórios/Comandos GIT.md"
               }
             }
           },
@@ -155,6 +157,7 @@
   },
   "active": "6d4c040fbfb3139a",
   "lastOpenFiles": [
+    "Redes IXC/Como o radius funciona.pdf",
     "Protocolos/API.md",
     "Concentradores/Principais concentradores.md",
     "Protocolos/SSH.md",
@@ -175,7 +178,6 @@
     "Concentradores/Equipamentos/Cisco.md",
     "Concentradores/Equipamentos/Cisco",
     "Redes IXC/FreeRadius.md",
-    "Redes IXC/Como o radius funciona.pdf",
     "Redes IXC/RX e TX Simplificado - Desconexão cliente.md",
     "Concentradores/Equipamentos/Mikrotik.md",
     "Concentradores/Equipamentos/Huawei.md",
