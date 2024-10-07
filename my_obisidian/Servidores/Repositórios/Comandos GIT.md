@@ -16,7 +16,7 @@ Visualizar chave:
 `cat ~/.ssh/id_rsa.pub`
 
 Adicionando a chave no github:
-Settings> SSH and GPG Keys > New SSH key
+Settings > SSH and GPG Keys > New SSH key
 
 ----------------------------------------
 ***Lançando atualização para o Github***
