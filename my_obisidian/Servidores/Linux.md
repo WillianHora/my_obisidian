@@ -36,5 +36,5 @@ sudo usermod -aG sudo <nome_do_usuario>
 
 
 
-
+ssh -o KexAlgorithms=+diffie-hellman-group1-sha1 -o KexAlgorithms=+diffie-hellman-group14-sha1 admin@192.168.20.2
 
